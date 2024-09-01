@@ -1,0 +1,387 @@
+a{
+    color: white;
+    font-size: 20px;
+   text-decoration: none;
+}
+
+.login{
+    width: auto;
+    margin-left: 100px;
+}
+
+body{
+    margin: 0 0;
+    padding: 0 0;
+    background-color: #3D3F4A;
+    }
+
+.head{ 
+background-color: #5F6272;
+padding-bottom: 20px;
+display: flex;
+justify-content: right;
+
+}
+
+.head2{
+background-color:#484B5A;
+display: flex;
+justify-content: space-around;
+
+}
+
+.head2>a{
+background-color: #9398AE;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 22px;
+border: 1px solid white;
+}
+
+.jaldi1 {
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.jaldi2{
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+  .Tamanho{
+    font-size: 300%;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   margin: 0 auto;
+    margin-top: 60px;
+    }
+
+    .img{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .fonte{
+        font-family: "Jaldi", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        color: white;
+        font-size: 17px;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .fonte2 {
+        font-family: "Itim", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        font-size: 17px;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 15px;
+      }
+    figure > img {
+        width: auto;
+    }
+
+    figure {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        max-width: 730px;
+        margin: 0 auto;
+        font-size: 20px;
+    
+        color: white;
+        max-width: max-content;
+        }
+
+        .grid > figure{
+        padding-bottom: 1px;
+        }
+
+        .gale{
+            color: black;
+            font-size: 30px;
+            font-family: "Itim", cursive;
+            font-weight: 400;
+            font-style: normal;
+            text-align: center;
+            flex-wrap: wrap;
+            border-radius: 22px;
+        border: 1px solid white;
+        background-color:#9398AE;
+        max-width: max-content;
+        margin: 0 auto;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        }
+
+        .form{
+
+            color: black;
+            font-size: 40px;
+            font-family: "Itim", cursive;
+            font-weight: 400;
+            font-style: normal;
+            text-align: center;
+            flex-wrap: wrap;
+            border-radius: 22px;
+            max-width: max-content;
+        border: 1px solid white;
+        background-color:#9398AE;
+            margin: 0 auto;
+            margin-top: 50px;
+            margin-bottom: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
+
+        }
+
+    .rodape{
+        background-color: #262938;
+        position: relative;
+        bottom: 0;
+        width: 96%;
+        margin: 20px 20px;
+        padding: 1px;
+        border-radius: 10px;
+        border: 2px solid white;
+        font-size: 17px;
+        color: white;
+        height: 80px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        }
+        
+        .texto{
+            font-family: "Itim", cursive;
+            font-weight: 400;
+            font-style: normal;
+            color: white;
+        margin-right: 20px;
+           text-decoration: none;
+           color: black;
+       }
+
+       fieldset{
+        background-color: #ACB0C3;
+        border-radius: 20px;
+        padding-top: 30px;
+        margin-top: 25px;
+        max-width: max-content;
+        margin-bottom: 30px;
+        padding-bottom: 500px;
+        margin: 0 auto; 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 400px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+
+.fonte3{
+    height: 3px;
+     font-family: "Jaldi", sans-serif;
+     font-weight: 400;
+     font-style: normal; 
+}
+.textogar{
+    color: black;
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 22px;
+    max-width: max-content;
+
+background-color:#9398AE;
+box-shadow: 0 7px 0px #6F7385;
+    margin: auto 30px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.textguar{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar2{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar3{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar4{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar4{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar5{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar6{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar7{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar8{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar9{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+.textguar10{
+    color: black;
+    font-family: "Jaldi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background-color: #7D8198;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    box-shadow: 0px 4px 5px #2C2F38;
+}
+        .direira {
+             justify-self: end;
+             font-family: "Jaldi", sans-serif;
+             font-weight: 400;
+             font-style: normal;
+          margin-top: 4px;
+        }
+
+        .input{
+            height: 20px;
+            margin-top: 20px;
+            border-radius: 20px;
+        }
+        .input1{
+            height: 20px;
+            margin-top: 20px;
+            border-radius: 20px;
+        }
+        .esquerda{
+            font-family: "Jaldi", sans-serif;
+                  font-weight: 400;
+                  font-style: normal;
+                  margin-top: 4px;
+        }
+       
+        @media(max-width: 600px){
+
+    .Tamanho{
+        margin: 0 auto;
+        font-size: 40px;
+    }
+    .img{
+       height: 50px;
+    
+    }
+    .grid{
+        grid-template-columns: 1fr 1fr ;
+        margin: 0 auto;
+        max-width: max-content;
+    }
+    .rodape{
+        font-size: 15px;
+        margin-left: 2px;
+        }
+        fieldset{
+            margin-left: 120px;
+        }
+}
+        
