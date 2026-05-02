@@ -1,1 +1,1 @@
-link: https://github.com/OVitoria/Trabalho-onepage/index.html
+link: https://ovitoria.github.io/Trabalho-onepage/index.html
